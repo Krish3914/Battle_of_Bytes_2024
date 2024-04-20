@@ -36,7 +36,7 @@ const Navbar = () => {
     { id: 1, text: "Events", link: "/", sectionId: "events" },
     { id: 2, text: "Teams", link: "/", sectionId: "workshops" },
     { id: 3, text: "Auction", link: "https://dazzling-griffin-b44bc3.netlify.app/", sectionId: "competitions" },
-    { id: 4, text: "Coordinators", link: "/games" },
+    { id: 4, text: "Coordinators", link: "/", sectionId: "games" },
     // { id: 6, text: "Leaderboard", link: "/login" },
     
     { id: 5, text: "Leaderboard", link: "/tickets" },

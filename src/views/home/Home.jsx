@@ -9,7 +9,7 @@ import CompetitionsSection from "./components/Games/CompetitionsSection";
 
 const Home = () => {
   useEffect(() => {
-    window.document.title = "KARMA'24";
+    window.document.title = "Battle-of-Bytes'24";
     window.scrollTo(0, 0);
   }, []);
 

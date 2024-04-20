@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 
-import kmct_logo from "../../../images/BOB Logo-20240411T095943Z-001/BOB Logo/BoB Logo.png";
+// import kmct_logo from "../../../images/BOB Logo-20240411T095943Z-001/BOB Logo/BoB Logo.png";
+import kmct_logo from "../../assets/BOB_Logo.png";
 import azraqz_logo from "../../assets/Bitmesra.png";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -122,8 +123,8 @@ function Footer() {
       </div>
       <div>
         Designed and Developed by Team: <b>Tech-Troopers</b>
-        {/* <br /> */}
-        {/* Team Members: <em>Krish, Dhruv,</em> Krishna, Mayank, Nainav, Abhijeet, Siddharth, Ishan, Akshat,  */}
+        <br />
+        <ul>---------------------Team Members: <em> <a href="https://www.linkedin.com/in/krish-agrawal-26jy/">Krish</a>, Dhruv, Krishna, Abhijeet.</em></ul>
       </div>
     </footer>
   );
